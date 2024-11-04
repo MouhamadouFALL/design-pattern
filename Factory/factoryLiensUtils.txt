@@ -1,0 +1,45 @@
+
+
+# Factory Method Pattern – Design Patterns (ep 4)
+> https://www.youtube.com/watch?v=EcFVTgRHJLM
+
+# Factory Design Pattern en TypeScript (extraits de code inclus)
+> https://www.youtube.com/watch?v=9TC3NXNqEgI
+
+# Factory Method Pattern Visualized
+> https://www.youtube.com/watch?v=y0HRazQsvUY
+
+# Factory, Abstract Factory, Factory Method - Design Pattern
+> https://www.youtube.com/watch?v=xN7EFHU_rXA
+
+# Factory method pattern - design patterns (ep 5)
+> https://www.youtube.com/watch?v=bZ2OHWf7Yb0
+
+# 24 - Organisation de l'application à l'exécution
+> https://www.youtube.com/watch?v=WWv2Rfqr__k&list=PLzzeuFUy_CngSfFq9-TJ0r8NC7Y3hSNpe
+
+# The Factory Pattern in Python // Separate Creation From Use
+> https://www.youtube.com/watch?v=s_4ZrtQs8Do
+
+# Résolutions pour les développeurs : voici comment les tenir !
+> https://www.youtube.com/watch?v=aQkgUO26VG4
+
+# CHATGPT pour APPRENDRE L'ANGLAIS en 2024 : GUIDE étape par étape
+> https://www.youtube.com/watch?v=r0ySZRumr1I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+
+Un design pattern Factory est un code qui fabrique du code.
+Il n'est pas limité à la programmation orieté Objet
